@@ -227,7 +227,7 @@ button:active button:hover .btn:active,
     transition: transform .4s ease;
 }
 
-.site-main .brand-area .first-row .col-lg-4>.single-brand>img {
+.site-main .brand-area .first-row .col-lg-4>.single-brand a>img {
     width: 50%;
 }
 
